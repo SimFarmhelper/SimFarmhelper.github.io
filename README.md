@@ -1,4 +1,4 @@
-# [Viva New Vegas](https://SimFarmhelper.github.io/)
+# [Sim Farm Helper](https://SimFarmhelper.github.io/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-informational.svg)](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.txt)
 
